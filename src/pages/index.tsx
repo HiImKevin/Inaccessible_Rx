@@ -16,6 +16,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1>Store</h1>
         <button>Buy Me</button>
+        <h2>K8s test change</h2>
       </main>
       <footer>Footer</footer>
     </>
